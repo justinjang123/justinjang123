@@ -1,50 +1,25 @@
-# 👋 안녕하세요, 데이터에서 흐름을 읽는 분석가 `홍길동(이름/닉네임)`입니다.
+# 👋 안녕하세요, Python 기반 데이터 분석가를 준비하는 장인영입니다.
 
-> **"통계적 시각으로 시계열과 금융 시장의 패턴을 탐구합니다."**
+> 데이터를 살펴보고, 근거를 바탕으로 의미 있는 인사이트를 찾는 과정에 관심이 있습니다.
 
-통계학을 기반으로 Python 데이터 분석의 세계에 입문한 지 **2개월 차**인 데이터 분석가입니다.  
-단순한 수치 요약을 넘어, 시간에 따라 변화하는 데이터(**Time Series**)와 **주식 시장(Stock Market)**의 변동성을 통계적 모델로 해석하는 것에 큰 흥미를 느끼고 매일 기록하며 성장하고 있습니다.
-
----
-
-### 🔍 Interests & Focus
-- 📈 **Stock Market Analysis**: 주가 데이터 수집(`yfinance`, `FinanceDataReader`), 기술적 지표 산출 및 백테스팅 기초
-- ⏳ **Time Series Analysis**: 정상성(Stationarity) 검정, 이동평균, ARIMA 등 통계 기반 시계열 모델링
-- 📊 **Statistical Modeling**: 가설 검정, 회귀 분석, 데이터 분포 탐색 및 시각화
-
----
+현재 **약 6개월 과정의 AI·데이터 분석 부트캠프 수료를 앞두고** Python을 중심으로 데이터 분석과 머신러닝을 학습하고 있습니다. 배운 내용을 작은 분석 프로젝트로 구현하고, 과정과 결과를 꾸준히 기록합니다.
 
 ### 🛠 Tech Stack
-
-**Language & Environment**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
-**Data Analysis & Statistics**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-2B5B84?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🎯 Focus
+- **Data Analysis** — 데이터 전처리, 탐색적 데이터 분석(EDA), 시각화
+- **Machine Learning** — 기초 모델링과 성능 평가
+- **Problem Solving** — 분석 목적에 맞는 접근과 결과 해석
+
+### 📌 What I Value
+분석 결과뿐 아니라 **문제 정의 → 데이터 처리 → 분석 과정 → 인사이트**를 이해하기 쉽게 정리하는 것을 중요하게 생각합니다.
 
 ---
-
-### 📂 Featured Study & Projects
-| 프로젝트 / 스터디 | 주요 내용 | 사용 기술 |
-| :--- | :--- | :--- |
-| **[`주식 데이터 탐색 리포지토리 이름`](`https://github.com/본인아이디/리포지토리1`)** | `주요 종목의 일별 수익률 분포 확인 및 이동평균선 시각화 분석` | `Python`, `Pandas`, `Matplotlib` |
-| **[`시계열 & 통계 스터디 리포지토리 이름`](`https://github.com/본인아이디/리포지토리2`)** | `기초 통계 가설검정 실습 및 시계열 데이터 분해(Trend/Seasonality) 기록` | `Statsmodels`, `SciPy` |
-
----
-
-### 📫 Contact & Channels
-- **Email**: `your_email@example.com`
-- **Blog**: [`블로그 이름 (Velog, Tistory 등)`](`https://본인블로그주소`)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=`본인_깃허브_아이디`&show_icons=true&theme=flat)
+*Learning by doing. Improving through each project.*
